@@ -1,4 +1,4 @@
-const { getBrowser, closeBrowser } = require('../services/BrowserService');
+const { getBrowser, closeBrowser } = require('./BrowserService');
 
 class RoomService {
 
